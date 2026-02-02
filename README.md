@@ -35,17 +35,6 @@ Deployment: Render
 
 Version Control: Git & GitHub (Git LFS - for large ML artifacts)
 
-## 📂 Project Structure
-
-movie_recommender/
-│
-├── app.py                  # Streamlit application
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-│── movie_list.pkl          # Processed movie dataset
-│── similarity.pkl          # Cosine similarity matrix
-└── .gitignore
-
 
 ## 🧠 How It Works (Simple Explanation)
 
@@ -74,7 +63,3 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the app
 streamlit run app.py
-
-## 🌐 Deployment
-
-The application is deployed on Render using GitHub integration and environment variables for secure configuration.
