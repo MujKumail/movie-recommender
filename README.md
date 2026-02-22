@@ -4,6 +4,9 @@
 
 A content-based movie recommendation system built using Machine Learning and deployed as a Streamlit web app on Render.
 
+## 🚀 Live Demo-
+https://movie-recommender-g2oe.onrender.com/
+
 ## 📌 Features
 
 🔍 Search for a movie and get similar movie recommendations
